@@ -1,6 +1,6 @@
 # Core Banking Insights — Power BI Dashboard
 
-**Live Report:** [Open in Power BI](<paste-your-live-report-link-here>)
+**Live Report:** [Open in Power BI](https://app.powerbi.com/links/vTVAc1eaJT?ctid=ffde924e-11ca-44e9-8e06-63965bc300f6&pbi_source=linkShare)
 
 ## Problem statement
 A mid-size retail bank lacked a single, trustworthy view of daily transactions, product balances, and customer activity. Leaders struggled to spot trends across debit/credit volumes, monitor inactive accounts, and understand customer mix—relying on scattered Excel extracts that obscured the real picture.
