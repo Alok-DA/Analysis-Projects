@@ -32,11 +32,11 @@ I designed and delivered a Power BI dashboard that converts raw banking data int
 - **Inactive Accounts:** Timely visibility into spikes by year/month to trigger outreach.
 
 ## Dashboards / Screens
-> Place screenshots in an `images/` folder and update the paths below.
+
 
 - **Payment and Account Metrics Dashboard**  
-  ![Payment and Account Metrics Dashboard](images/payment-account-metrics.png)
+  ![Payment and Account Metrics Dashboard](images/Core-banking-insights-ss1.jpg)
 
 - **Customer Segments and Portfolio Balances Dashboard**  
-  ![Customer Segments and Portfolio Balances Dashboard](images/customer-segments-portfolio-balances.png)
+  ![Customer Segments and Portfolio Balances Dashboard](images/Core-banking-insights-ss2.jpg)
 
