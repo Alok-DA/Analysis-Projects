@@ -32,13 +32,13 @@ I built an interactive Power BI report consolidating visitor and revenue signals
 > Add screenshots to your repo (e.g., `/images/…`) and update the relative paths below.
 
 - **Visitors and Top Districts**  
-  ![Visitors and Top Districts](images/visitors-top-districts.jpg)
+  ![Visitors and Top Districts](https://github.com/Alok-DA/Analysis-Projects/blob/main/powerbi-telengana-tourism/images/visitors-top-districts.jpg)
 
-- **CAGR and Population-Footfall Ratio Dashboard**  
-  ![CAGR and Population-Footfall Ratio Dashboard](images/cagr-population-footfall.jpg)
+- **CAGR and Population-Footfall Ratio Dashboard**
+  ![CAGR and Population-Footfall Ratio Dashboard](https://github.com/Alok-DA/Analysis-Projects/blob/main/powerbi-telengana-tourism/images/cagr-population-footfall.jpg)
 
 - **Hyderabad: Revenue and Forecasts**  
-  ![Hyderabad: Revenue and Forecasts](images/hyderabad-revenue-forecast.jpg)
+  ![Hyderabad: Revenue and Forecasts](https://github.com/Alok-DA/Analysis-Projects/blob/main/powerbi-telengana-tourism/images/hyderabad-revenue-forecast.jpg)
 
 - **Hyderabad: Peak vs Low Months**  
-  ![Hyderabad: Peak vs Low Months](images/hyderabad-peak-low-months.jpg)
+  ![Hyderabad: Peak vs Low Months](https://github.com/Alok-DA/Analysis-Projects/blob/main/powerbi-telengana-tourism/images/hyderabad-peak-low-months.jpg)
