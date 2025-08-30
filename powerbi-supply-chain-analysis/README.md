@@ -1,6 +1,6 @@
 # Supply Chain Analysis — Power BI Dashboard
 
-**Live Report:** [Open in Power BI](<paste-your-live-report-url-here>)
+**Live Report:** [Open in Power BI](https://app.powerbi.com/links/J6JBd534cK?ctid=ffde924e-11ca-44e9-8e06-63965bc300f6&pbi_source=linkShare)
 
 ## Problem statement
 Operations and customer teams lacked a single, trustworthy view of delivery performance—On-Time (OT), In-Full (IF), OTIF, Fill Rates (LIFR/VORF), and delay patterns—spread across spreadsheets with no easy drill-down by product, customer, or city. The business needed target tracking and quick identification of late orders and root-cause hotspots.
@@ -30,3 +30,4 @@ I built an interactive Power BI report that consolidates order lines, targets, a
 
 ---
 *Supply Chain Insights*
+![Supply Chain Insights](https://github.com/Alok-DA/Analysis-Projects/blob/main/powerbi-supply-chain-analysis/images/Supply-Chain-Analysis-Report.jpg)
